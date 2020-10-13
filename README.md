@@ -1,8 +1,8 @@
 
 <h1 style='font-size:20px;text-align: center'>
 How to restore Aqua MODIS band 06 missing pixels 
-<br>using a nonlinear regression based on Gaussian processes ?: 
-<br> An application based on python and Scikit-Learn.
+using a nonlinear regression based on Gaussian processes ?: 
+An application based on python and Scikit-Learn.
 </h1>
 
 <p style='text-align: center'>
