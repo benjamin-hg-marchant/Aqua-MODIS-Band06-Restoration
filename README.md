@@ -12,6 +12,8 @@ Author: Benjamin Marchant
 <br> v1.0.0
 </p>
 
+[![DOI](https://zenodo.org/badge/303559858.svg)](https://zenodo.org/badge/latestdoi/303559858)
+
 
 ```python
 import matplotlib.pyplot as plt
